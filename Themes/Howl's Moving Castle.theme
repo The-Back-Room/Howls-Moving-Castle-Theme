@@ -67,81 +67,50 @@ SchemeName=Howl's Moving Castle
 
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Default Beep.wav
-
 [AppEvents\Schemes\Apps\.Default\ChangeTheme]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Change Theme.wav
-
 [AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Critical Battery Alarm.wav
-
 [AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Low Battery Alarm.wav
-
 [AppEvents\Schemes\Apps\.Default\DeviceConnect]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Drive Connect.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Device Connect.wav
 [AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Drive Disconnect.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Device Disconnect.wav
 [AppEvents\Schemes\Apps\.Default\DeviceFail]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Drive Failed To Connect.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Device Failed To Connect.wav
 [AppEvents\Schemes\Apps\.Default\FaxBeep]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Notification.wav
-
+DefaultValue=
 [AppEvents\Schemes\Apps\.Default\MailBeep]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Desktop Mail Notification.wav
-
 [AppEvents\Schemes\Apps\.Default\MessageNudge]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Message Nudge.wav
-
 [AppEvents\Schemes\Apps\.Default\Notification]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Notification.wav
-
-[AppEvents\Schemes\Apps\.Default\Notification.IM]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Instant Message Notification.wav
-
-[AppEvents\Schemes\Apps\.Default\Notification.Mail]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Desktop Mail Notification.wav
-
 [AppEvents\Schemes\Apps\.Default\Notification.Reminder]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Calender Reminder.wav
-
-[AppEvents\Schemes\Apps\.Default\Maximize]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Maximize.wav
-
-[AppEvents\Schemes\Apps\.Default\Minimize]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Minimize.wav
-
+DefaultValue=
 [AppEvents\Schemes\Apps\.Default\RestoreDown]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Minimize.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Restore Down.wav
 [AppEvents\Schemes\Apps\.Default\RestoreUp]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Maximize.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Restore Up.wav
 [AppEvents\Schemes\Apps\.Default\Close]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Close Program.wav
-
-[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Asterisk.wav
-
-[AppEvents\Schemes\Apps\.Default\SystemExclamation]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Exclamation.wav
-
-[AppEvents\Schemes\Apps\.Default\SystemNotification]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Asterisk.wav
-
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Exclamation]
+DefaultValue=
 [AppEvents\Schemes\Apps\.Default\WindowsLogoff]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Logoff.wav
-
 [AppEvents\Schemes\Apps\.Default\WindowsLogon]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Logon.wav
-
 [AppEvents\Schemes\Apps\.Default\WindowsUAC]
-DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Exclamation.wav
-
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\UAC.wav
 [AppEvents\Schemes\Apps\.Default\WindowsUnlock]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Unlock.wav
+[AppEvents\Schemes\Apps\.Default\Asterisk]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=
 
 [Slideshow]
 Interval=900000

@@ -80,7 +80,7 @@ DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Device Di
 [AppEvents\Schemes\Apps\.Default\DeviceFail]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Device Failed To Connect.wav
 [AppEvents\Schemes\Apps\.Default\FaxBeep]
-DefaultValue=
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Desktop Mail Notification.wav
 [AppEvents\Schemes\Apps\.Default\MailBeep]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Desktop Mail Notification.wav
 [AppEvents\Schemes\Apps\.Default\MessageNudge]
@@ -88,15 +88,13 @@ DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Message N
 [AppEvents\Schemes\Apps\.Default\Notification]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Notification.wav
 [AppEvents\Schemes\Apps\.Default\Notification.Reminder]
-DefaultValue=
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Calander Reminder.wav
+[AppEvents\Schemes\Apps\.Default\Notification.IM]
+DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Instant Message Notification.wav
 [AppEvents\Schemes\Apps\.Default\RestoreDown]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Restore Down.wav
 [AppEvents\Schemes\Apps\.Default\RestoreUp]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Restore Up.wav
-[AppEvents\Schemes\Apps\.Default\Close]
-DefaultValue=
-[AppEvents\Schemes\Apps\.Default\Exclamation]
-DefaultValue=
 [AppEvents\Schemes\Apps\.Default\WindowsLogoff]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Logoff.wav
 [AppEvents\Schemes\Apps\.Default\WindowsLogon]
@@ -105,7 +103,13 @@ DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Logon.wav
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\UAC.wav
 [AppEvents\Schemes\Apps\.Default\WindowsUnlock]
 DefaultValue=%SystemRoot%\Resources\Themes\Howl's Moving Castle\Sounds\Unlock.wav
+[AppEvents\Schemes\Apps\.Default\Exclamation]
+DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Asterisk]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\Close]
+DefaultValue=
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\SystemAsterisk]
 DefaultValue=
